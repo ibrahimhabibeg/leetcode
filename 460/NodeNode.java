@@ -1,0 +1,7 @@
+/**
+ * NodeNode
+ */
+public class NodeNode {
+
+  
+}
